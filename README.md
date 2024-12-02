@@ -36,7 +36,7 @@ To run the project, you need the following libraries:
 - `matplotlib`  
 - `seaborn`  
 - `nltk`  
-- `tensorflow`  
+- `tensorflow-keras`  
 - `scikit-learn`  
 
 ## 📂 Project Structure
