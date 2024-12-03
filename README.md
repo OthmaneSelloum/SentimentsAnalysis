@@ -40,8 +40,7 @@ To run the project, you need the following libraries:
 - `scikit-learn`  
 
 ## 📂 Project Structure
-plaintext
-Copier le code
+
 Sentiments Analysis/
 ├── data/                    # Dataset folder
 ├── Sentiments Analysis.ipynb # Jupyter Notebook
