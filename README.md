@@ -39,13 +39,6 @@ To run the project, you need the following libraries:
 - `tensorflow-keras`  
 - `scikit-learn`  
 
-## 📂 Project Structure
-
-Sentiments Analysis/
-├── data/                    # Dataset folder
-├── Sentiments Analysis.ipynb # Jupyter Notebook
-├── models/                  # Saved trained models (optional)
-└── README.md                # Project Documentation
 
 ---
 
